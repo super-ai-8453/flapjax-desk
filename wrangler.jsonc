@@ -1,0 +1,8 @@
+// FlapJax Bounty Desk — Cloudflare Worker
+// Set your Alchemy BSC API key as a secret before deploying:
+//   npx wrangler secret put ALCHEMY_API_KEY
+{
+  "name": "flapjax-desk",
+  "main": "worker.js",
+  "compatibility_date": "2026-01-01"
+}
